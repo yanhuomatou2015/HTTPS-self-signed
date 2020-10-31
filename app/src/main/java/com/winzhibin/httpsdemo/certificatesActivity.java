@@ -13,7 +13,9 @@ import java.security.cert.CertificateException;
 import java.security.cert.CertificateFactory;
 import java.util.concurrent.TimeUnit;
 
-
+/**
+ * Created by wenzhibin(yanhuomatou2015) on 2020/10/23.
+ */
 public class certificatesActivity extends Activity {
 
     @Override
