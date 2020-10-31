@@ -18,7 +18,9 @@ import java.security.cert.CertificateFactory
 import java.util.concurrent.TimeUnit
 import javax.net.ssl.*
 
-
+/**
+ * Created by wenzhibin(yanhuomatou2015) on 2020/10/23.
+ */
 class MainActivity : Activity() {
 
     //懒加载初始化view
